@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/test-ada-website/sitemap.xml
+Sitemap: https://matthias-wyss.github.io/sitemap.xml
