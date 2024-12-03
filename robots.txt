@@ -1,1 +1,1 @@
-Sitemap: https://matthias-wyss.github.io/test-ada-website/sitemap.xml
+Sitemap: https://epfl-ada.github.io/ada-2024-project-sparkling/sitemap.xml
